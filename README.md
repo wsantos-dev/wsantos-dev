@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oi, eu sou o Wellington Santos
 
-<!--
-**wsantos-dev/wsantos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo ao meu GitHub! 👋
 
-Here are some ideas to get you started:
+### Sobre Mim
+Sou um desenvolvedor .NET com experiência em desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias
+- **Linguagens:** C#, Java
+- **Frontend:** HTML, CSS, SCSS, JavaScript
+- **Banco de Dados:** SQL Server
+- **Ferramentas:** Visual Studio, Git, Docker
+- **Frameworks Front-end:** Bootstrap
+- **Frameworks Back-end:** ASP.NET, ASP.NET Core
+- **Metodologias:** Agile, Scrum
+
+
+### Contato
+- **LinkedIn:** www.linkedin.com/in/wellingtonbezerrasantos
+- **E-mail:** wellington.bezerra.santos@outlook.com
+
+### Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wsantos-dev&show_icons=true&count_private=true&hide=contribs)
+
+### Linguagens Mais Utilizadas
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wsantos-dev&layout=compact)
+
