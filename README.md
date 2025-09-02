@@ -20,7 +20,7 @@ Sou um desenvolvedor .NET com experiência em desenvolvimento web.
 - **E-mail:** wellington.bezerra.santos@outlook.com
 
 ### Estatísticas do GitHub
-![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsantos-dev&show_icons=true&theme=transparent)
+![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsantos-dev&show_icons=true)
 
 ### Linguagens Mais Utilizadas
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wsantos-dev&layout=compact)
