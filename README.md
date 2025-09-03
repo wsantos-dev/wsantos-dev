@@ -8,7 +8,7 @@ Sou um desenvolvedor .NET com experiência em desenvolvimento web.
 ### 🚀 Tecnologias
 - **Linguagens:** C#, Java
 - **Frontend:** HTML, CSS, SCSS, JavaScript
-- **Banco de Dados:** SQL Server
+- **Banco de Dados:** SQL Server, PostgreSQL
 - **Ferramentas:** Visual Studio, Git, Docker
 - **Frameworks Front-end:** Vue.js
 - **Frameworks Back-end:** ASP.NET, ASP.NET Core
