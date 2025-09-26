@@ -1,27 +1,45 @@
-# Oi, eu sou o Wellington Santos
+# 👋 Olá, eu sou o Wellington Santos  
 
-## Bem-vindo ao meu GitHub! 👋
+## 🚀 Desenvolvedor .NET Pleno | Fullstack Developer  
 
-### Sobre Mim
-Sou um desenvolvedor .NET com experiência em desenvolvimento web.
+Sou desenvolvedor **.NET Pleno** com experiência em **aplicações web**, atuando tanto no **back-end** quanto no **front-end**.  
+Tenho foco em **boas práticas de engenharia de software**, aplicando **Clean Architecture, DDD** e padrões de projeto para entregar soluções escaláveis e de qualidade.  
 
-### 🚀 Tecnologias
-- **Linguagens:** C#, Java
-- **Frontend:** HTML, CSS, SCSS, JavaScript
-- **Frameworks Frontend:** Vue.js 
-- **Banco de Dados:** SQL Server, PostgreSQL
-- **Ferramentas:** Visual Studio, Git, Docker
-- **Frameworks Back-end:** ASP.NET, ASP.NET Core
-- **Metodologias:** Agile, Scrum
+---
 
+### 🛠️ Tecnologias e Ferramentas  
 
-### Contato
-- **LinkedIn:** www.linkedin.com/in/wellingtonbezerrasantos
-- **E-mail:** wellington.bezerra.santos@outlook.com
+- **Linguagens:** C#, Java, JavaScript, TypeScript  
+- **Backend:** ASP.NET | ASP.NET Core (Minimal APIs, MVC, Web API)  
+- **Frontend:** HTML, CSS, SCSS, Bootstrap
+- **Banco de Dados:** SQL Server, PostgreSQL  
+- **ORMs & ADO.NET:** Entity Framework Core, ADO.NET (alta performance)  
+- **Arquitetura & Padrões:** Clean Architecture, Domain-Driven Design (DDD), Repository Pattern   
+- **Metodologias:** Agile, Scrum  
+- **Outros:** Docker, Git, Azure DevOps  
 
-### Estatísticas do GitHub
-![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsantos-dev&show_icons=true)
+---
 
-### Linguagens Mais Utilizadas
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wsantos-dev&layout=compact)
+### Tecnologias que estou estudando no momento:
+- **Angular**
+- **RabbitMQ**
 
+### 🌟 O que você vai encontrar aqui no meu GitHub?  
+- Projetos em **.NET Core e .NET Framework**, explorando desde **APIs REST** até **sistemas web completos**.  
+- Implementações com **Entity Framework Core + PostgreSQL/SQL Server**.  
+- **Soluções arquiteturais** aplicando Clean Architecture e DDD.  
+- Projetos **Fullstack**, com integração de front-end moderno (JavaScript, Bootstrap).  
+
+---
+
+### 📊 Estatísticas do GitHub  
+![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsantos-dev&show_icons=true&theme=dracula)  
+
+### 📌 Linguagens Mais Utilizadas  
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wsantos-dev&layout=compact&theme=dracula)  
+
+---
+
+### 📫 Contato  
+- **LinkedIn:** [linkedin.com/in/wellingtonbezerrasantos](https://www.linkedin.com/in/wellingtonbezerrasantos)  
+- **E-mail:** wellington.bezerra.santos@outlook.com  
