@@ -24,7 +24,7 @@ Tenho foco em **boas práticas de engenharia de software**, aplicando padrões d
 - **RabbitMQ**
 
 ### 🌟 O que você vai encontrar aqui no meu GitHub?  
-- Projetos em **.NET Core e .NET Framework**, explorando desde **APIs REST** até **sistemas web completos**.  
+- Projetos em **.NET Core e .NET Framework**, explorando desde **APIs REST** 
 - Implementações com **Entity Framework Core + PostgreSQL/SQL Server**.  
 - **Soluções arquiteturais** aplicando Clean Architecture e DDD.  
 - Projetos **Fullstack**, com integração de front-end moderno (JavaScript, Bootstrap).  
