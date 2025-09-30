@@ -14,7 +14,6 @@ Tenho foco em **boas práticas de engenharia de software**, aplicando padrões d
 - **Frontend:** HTML, CSS, SCSS, Bootstrap
 - **Banco de Dados:** SQL Server, PostgreSQL  
 - **ORMs & ADO.NET:** Entity Framework Core, ADO.NET (alta performance)  
-- **Arquitetura & Padrões:** Clean Architecture, Domain-Driven Design (DDD), Repository Pattern   
 - **Metodologias:** Agile, Scrum  
 - **Outros:** Docker, Git, Azure DevOps  
 
