@@ -27,7 +27,7 @@ Experiência em aplicações web com foco em boas práticas de engenharia de sof
 ![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsantos-dev&show_icons=true&theme=dracula)  
 
 ### 📌 Linguagens Mais Utilizadas  
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wsantos-dev&layout=compact&theme=dracula)  
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wsantos-dev&layout=compact)  
 
 ---
 
