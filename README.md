@@ -2,8 +2,7 @@
 
 ## 🚀 Desenvolvedor .NET Pleno | Fullstack Developer  
 
-Sou desenvolvedor **.NET Pleno** com experiência em **aplicações web**, atuando tanto no **back-end** quanto no **front-end**.  
-Tenho foco em **boas práticas de engenharia de software**, aplicando padrões de projeto para entregar soluções escaláveis e de qualidade.  
+Experiência em aplicações web com foco em boas práticas de engenharia de software, aplicando padrões de projeto para entregar soluções escaláveis e de qualidade.  
 
 ---
 
