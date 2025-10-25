@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor .NET Pleno | Fullstack Developer  
 
-Experiência em aplicações web com foco em boas práticas de engenharia de software, aplicando padrões de projeto para entregar soluções escaláveis e de qualidade.  
+Experiência em aplicações web com foco em boas práticas de engenharia de software para entregar soluções escaláveis e de qualidade.  
 
 ---
 
@@ -12,14 +12,13 @@ Experiência em aplicações web com foco em boas práticas de engenharia de sof
 - **Backend:** ASP.NET | ASP.NET Core (Minimal APIs, MVC, Web API)  
 - **Frontend:** HTML, CSS, SCSS, Bootstrap
 - **Banco de Dados:** SQL Server, PostgreSQL  
-- **ORMs & ADO.NET:** Entity Framework Core, ADO.NET (alta performance)  
+- **ORMs & ADO.NET:** Entity Framework Core, ADO.NET 
 - **Metodologias:** Agile, Scrum  
 - **Outros:** Docker, Git, Azure DevOps  
 
 ---
 
 ### Tecnologias que estou estudando no momento:
-- **Angular**
 - **RabbitMQ**
 
 
