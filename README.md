@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou o Wellington Santos  
 
-## 🚀 Desenvolvedor .NET Pleno | Fullstack Developer  
+## 🚀 Desenvolvedor .NET Pleno
 
-Experiência em aplicações web com foco em boas práticas de engenharia de software para entregar soluções escaláveis e de qualidade.  
+Sou um Desenvolvedor .NET Pleno com 4 anos de experiência em aplicações Web, atuando com tecnologias como ASP.NET Framework, ASP.NET Core e ASP.NET Web API, além de sólida atuação com SQL Server utilizando T-SQL. Já atuei como fullstack utilizando no front-end as tecnologias HTML, CSS e Javascript. Em minha última experiência em projetos corporativos, modernizei o front-end e backend de uma aplicação gerando uma melhor experiência para os usuários finais.
+
+Atualmente, meu foco profissional está voltado para a especialização em desenvolvimento backend, com o objetivo de aprofundar meu conhecimento e consolidar minha autoridade nesta área.
 
 ---
 
